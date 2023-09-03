@@ -1,2 +1,2 @@
-def pop_that_dick():
+def pok():
 	print('works')
